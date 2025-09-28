@@ -62,8 +62,10 @@
 <h2 align="center">🐍 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ sɴᴀᴋᴇ</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bad-Munda/Bad-Munda/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+    <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
 
 ---
 
