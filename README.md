@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=🔥+ʜɪ+👋,+ɪ'ᴍ+ʙᴀᴅ-ᴍᴜɴᴅᴀ+🔥;💻+ᴀ+ᴘᴀssɪᴏɴᴀᴛᴇ+ᴅᴇᴠᴇʟᴏᴘᴇʀ+ꜰʀᴏᴍ+ɪɴᴅɪᴀ+ᴘᴀɴᴊᴀʙ+🚀" alt="Bad Munda Typing Banner" />
+<!-- 🔥 Animated Typing Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&pause=1000&color=FF0000&background=141321&center=true&vCenter=true&width=700&lines=🔥+ʜɪ+👋,+ɪ'ᴍ+ʙᴀᴅ-ᴍᴜɴᴅᴀ+🔥;💻+ᴀ+ᴘᴀssɪᴏɴᴀᴛᴇ+ᴅᴇᴠᴇʟᴏᴘᴇʀ+ꜰʀᴏᴍ+ᴘᴀɴᴊᴀʙ+🚀" alt="Bad Munda Typing Banner" />
 
 </div>
 
@@ -54,6 +55,14 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bad-Munda&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+<h2 align="center">🐍 ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ sɴᴀᴋᴇ</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bad-Munda/Bad-Munda/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
