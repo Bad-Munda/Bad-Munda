@@ -41,10 +41,10 @@
 
 ---
 
-<h2 align="center">🐍 sɴᴀᴋᴇ ɢᴀᴍᴇ</h2>
+<h2 align="center">✨ ʙᴀᴅ ᴍᴜɴᴅᴀ</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bad-Munda/Bad-Munda/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=500&lines=🔥+ʙᴀᴅ+ᴍᴜɴᴅᴀ+🔥;⚡+ᴄᴏᴅᴇʀ+%7C+ᴅᴇᴠᴇʟᴏᴘᴇʀ+⚡;🚀+ᴄʀᴇᴀᴛɪɴɢ+ᴄᴏᴏʟ+ᴘʀᴏᴊᴇᴄᴛs+🚀" alt="Typing Animation" />
 </p>
 
 ---
