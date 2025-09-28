@@ -1,11 +1,28 @@
-<h1 align="center">ʜɪ 👋, ɪ'ᴍ ʙᴀᴅ-ᴍᴜɴᴅᴀ</h1>
-<h3 align="center">💻 ᴀ ᴘᴀssɪᴏɴᴀᴛᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜰʀᴏᴍ ɪɴᴅɪᴀ ᴘᴀɴᴊᴀʙ 🚀</h3>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=🔥+ʜɪ+👋,+ɪ'ᴍ+ʙᴀᴅ-ᴍᴜɴᴅᴀ+🔥;💻+ᴀ+ᴘᴀssɪᴏɴᴀᴛᴇ+ᴅᴇᴠᴇʟᴏᴘᴇʀ+ꜰʀᴏᴍ+ɪɴᴅɪᴀ+ᴘᴀɴᴊᴀʙ+🚀" alt="Bad Munda Typing Banner" />
+
+</div>
 
 ---
 
-## 🚀 ᴛᴇᴄʜ sᴛᴀᴄᴋ
-- **Languages:** ᴘʏᴛʜᴏɴ, ᴊᴀᴠᴀsᴄʀɪᴘᴛ, ᴛʏᴘᴇsᴄʀɪᴘᴛ, ʜᴛᴍʟ, ᴄss  
-- **Frameworks & Tools:** ꜰᴀsᴛᴀᴘɪ, ᴅᴊᴀɴɢᴏ, ᴍᴏɴɢᴏᴅʙ, ɢɪᴛ, ᴠs ᴄᴏᴅᴇ, ᴛᴇʟᴇɢʀᴀᴍ ᴀᴘɪ  
+## 🚀 ᴛᴇᴄʜ sᴛᴀᴄᴋ  
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Code-Python-blue?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>  
+<img src="https://img.shields.io/badge/Code-TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Frontend-HTML-orange?style=for-the-badge&logo=html5&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Frontend-CSS-blue?style=for-the-badge&logo=css3&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Framework-FastAPI-green?style=for-the-badge&logo=fastapi&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Framework-Django-darkgreen?style=for-the-badge&logo=django&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Database-MongoDB-darkgreen?style=for-the-badge&logo=mongodb&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Tools-Git-red?style=for-the-badge&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Editor-VSCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>  
+<img src="https://img.shields.io/badge/API-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"/>  
+
+</div>
 
 ---
 
@@ -41,7 +58,7 @@
 
 ---
 
-<h2 align="center">✨ ʙᴀᴅ ᴍᴜɴᴅᴀ</h2>
+<h2 align="center">✨ ᴘʙx ᴛᴇᴀᴍ</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=500&lines=🔥+ʙᴀᴅ+ᴍᴜɴᴅᴀ+🔥;⚡+ᴄᴏᴅᴇʀ+%7C+ᴅᴇᴠᴇʟᴏᴘᴇʀ+⚡;🚀+ᴄʀᴇᴀᴛɪɴɢ+ᴄᴏᴏʟ+ᴘʀᴏᴊᴇᴄᴛs+🚀" alt="Typing Animation" />
@@ -49,8 +66,8 @@
 
 ---
 
-<h2 align="center">🌐 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h2>
-<p align="center">
-  <a href="https://github.com/Bad-Munda" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://t.me/yourtelegram" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<h2 align="center">🌐 ᴄᴏɴɴᴇᴄᴛ ᴡɪᴛʜ ᴍᴇ</h2>  
+<p align="center">  
+  <a href="https://github.com/Bad-Munda" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>  
+  <a href="https://t.me/yourtelegram" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>  
 </p>
